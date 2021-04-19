@@ -8,6 +8,6 @@ Contents
 
   1. Getting Started with Vagrant and Ansible
 
-Disclaimer : There are lot discussion on the need of Vagrant in the presence of other alternatives. This project is not about addressing any of the questions 
+Disclaimer : There are lot of discussions on the need of Vagrant in the presence of other alternatives. This project is not about addressing any of the questions 
              around those concerns instead it is only for education purpose and as a future reference.
 
